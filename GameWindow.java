@@ -1,7 +1,6 @@
-package ProgettiMiei.Java.SquareController;
+package SquareController;
 
 import java.awt.Dimension;
-
 import javax.swing.JFrame;
 
 public class GameWindow {

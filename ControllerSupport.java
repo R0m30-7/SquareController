@@ -1,4 +1,4 @@
-package ProgettiMiei.Java.SquareController;
+package SquareController;
 // https://github.com/williamahartman/Jamepad/releases/download/1.3.2/Jamepad.jar
 
 import com.studiohartman.jamepad.*;

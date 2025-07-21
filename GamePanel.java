@@ -1,4 +1,4 @@
-package ProgettiMiei.Java.SquareController;
+package SquareController;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -1,4 +1,4 @@
-package ProgettiMiei.Java.SquareController;
+package SquareController;
 
 public class Main {
     public static void main(String[] args) {
